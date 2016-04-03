@@ -12,7 +12,7 @@ public class Semester2Project1
 	public static final String vowels     = "aeiou";
 	public static final String consonants = "bcdfghjklmnpqrstvwxyz";
   
-/*Main Method - Barry O' Riordan
+/*Main Method
   Process: The user will choose an option from the Drop-down menu and the option selected will call the method related to the option.
   Output:  The menu will be outputted to the user to choose an option.
 */
