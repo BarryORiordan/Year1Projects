@@ -1,4 +1,4 @@
-/* Group 19 - Project 1
+/* Project 1
    Student:   Barry O' Riordan - 13144278
 */
 
